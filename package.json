@@ -1,21 +1,19 @@
 {
-  "name": "@uniswap/v4-core",
+  "name": "@etcswap/v4-core",
   "version": "1.0.2",
-  "description": "🦄 Core smart contracts of Uniswap v4",
+  "description": "Core smart contracts for ETCswap V4",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Uniswap/v4-core.git"
+    "url": "git+https://github.com/etcswap/v4-core.git"
   },
   "license": "BUSL-1.1",
   "keywords": [
-    "uniswap",
+    "etcswap",
+    "ethereum-classic",
     "core",
     "v4"
   ],
-  "bugs": {
-    "url": "https://uniswap.org/bug-bounty"
-  },
-  "homepage": "https://github.com/Uniswap/v4-core#readme",
+  "homepage": "https://etcswap.org",
   "publishConfig": {
     "access": "public",
     "provenance": true
